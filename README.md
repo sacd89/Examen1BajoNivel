@@ -1,2 +1,6 @@
-# Examen1BajoNivel
-Examen del Primer Parcial de la clase de Diseño de Software de Bajo Nivel
+# DAO Generico
+
+Proyecto donde realizamos un DAO generico, el cual se conecta a una base de datos SQL, y contiene 3 metódos genericos los cuales son:
+  * GetByID
+  * GetByCriteria
+  * GenericProcess
